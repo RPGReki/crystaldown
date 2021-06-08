@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Characters",
+    "order": 1,
+    "children": [
+      {
+        "title": "Main Cast",
+        "order": 1,
+        "children": [
+          {
+            "title": "Swift Mittens",
+            "order": 1,
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Swift Mittens"
+            ],
+            "character": "swift",
+            "description": "Swift is one of the main characters of Crystal Down. He has been reincarnated as a mixed Neotes Ailuranthrope. Surprisingly, he’s a late riser. With him being the Keeper of the Crystal Down he has quite the influence in Sitnalta. Though he rarely makes use of that influence.",
+            "children": [
+              {
+                "title": "Relations",
+                "order": 100,
+                "children": [
+                  {
+                    "title": "Aiden & Ethan Mittens",
+                    "order": 1,
+                    "description": "After taking in the twins, both Aiden and Ethan immediately recognize him as a protective big brother. Swift ends up adopting the two as his little brothers."
+                  },
+                  {
+                    "title": "Matt Sitnalta",
+                    "order": 2,
+                    "description": "Matt is the first person Swift meets after incarnating. With Matt’s relaxed behaviour Swift has taken a liking to Matt and joins Matt’s party."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Matthew Sitnalta",
+            "order": 2,
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Matthew Sitnalta"
+            ],
+            "character": "matthew",
+            "description": "Matt is one of the main characters of Crystal Down. He’s a Hume. He’s the second prince of Sitnalta. He is engaged to Kathrine Farron.",
+            "children": [
+              {
+                "title": "Relations",
+                "order": 100,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Patrick Boots",
+            "order": 3,
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Patrick Boots"
+            ],
+            "character": "patrick",
+            "description": "Pat is one of the main characters of Crystal Down. He’s an Ailuranthrope.",
+            "children": [
+              {
+                "title": "Relations",
+                "order": 100,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Deities",
+        "order": 11,
+        "children": [
+          {
+            "title": "Ameidra",
+            "order": 10,
+            "subtitle": "Deity of the Healing",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Ameidra"
+            ],
+            "description": "Ameidra's associated colour is blue. Her domain is Healing, both physical and mental. She's aligned with Water Magic and Light Magic.",
+            "extra_schema": [
+              {
+                "key": "schema:gender",
+                "value": "schema:Female"
+              },
+              {
+                "key": "cd:race",
+                "value": "Hume"
+              }
+            ]
+          },
+          {
+            "title": "Clayah",
+            "order": 30,
+            "subtitle": "Deity of the Shelter and Perseverance",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Clayah"
+            ],
+            "description": "Clayah's associated colour is brown. Her domains are Shelter and Perseverance. She's also the Patron Deity of Neotes. She's aligned with Earth Magic.",
+            "extra_schema": [
+              {
+                "key": "schema:gender",
+                "value": "schema:Female"
+              },
+              {
+                "key": "cd:race",
+                "value": "Neotes"
+              }
+            ]
+          },
+          {
+            "title": "Suscellu",
+            "order": 180,
+            "subtitle": "Deity of the Nature and Wine",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Suscellu"
+            ],
+            "description": "Suscellu's associated colour is green. His domains are Nature and Wine. In this case, wine includes all kinds of alcoholic beverages. She's aligned with Forest Magic.",
+            "extra_schema": [
+              {
+                "key": "schema:gender",
+                "value": "schema:Male"
+              },
+              {
+                "key": "cd:race",
+                "value": "Hume"
+              }
+            ]
+          },
+          {
+            "title": "Rhygni",
+            "order": 180,
+            "subtitle": "Deity of the Cooking and Forging",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Rhygni"
+            ],
+            "description": "Rhygni's associated colour is red. His domains are Cooking and Forging. She's also the Patron Deity of Dwarves. He's aligned with Fire Magic.",
+            "extra_schema": [
+              {
+                "key": "schema:gender",
+                "value": {
+                  "@type": "schema:Male",
+                  "@value": "Male"
+                }
+              },
+              {
+                "key": "cd:race",
+                "value": "Dwarf"
+              }
+            ]
+          },
+          {
+            "title": "Ukota",
+            "order": 210,
+            "subtitle": "Deity of the Time and Fate",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Ukota"
+            ],
+            "description": "Nothing is known about Ukota but their name."
+          }
+        ]
+      },
+      {
+        "title": "Supporting Characters",
+        "order": 31,
+        "children": [
+          {
+            "title": "Sobe Tagun",
+            "order": 190,
+            "subtitle": "Hot-blooded Pugilist Natural Talent",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Sobe Tagun"
+            ],
+            "description": "",
+            "character": "sobe",
+            "character_titles_only": true
+          },
+          {
+            "title": "Timon Sitnalta",
+            "order": 200,
+            "subtitle": "King of Sitnalta",
+            "schema_type": "cd:Person",
+            "keywords": [
+              "Timon Sitnalta"
+            ],
+            "description": "",
+            "character": "timon",
+            "character_titles_only": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Races",
+    "order": 21,
+    "children": [
+      {
+        "title": "Ailuranthrope",
+        "order": 11,
+        "keywords": [
+          "Ailuranthropes",
+          "Ailuranthrope"
+        ],
+        "description": "One of the Therianthrope races of Cratherion. Ailuranthropes are a werecat race. Aside from featuring feline ears and tails, they mostly don’t differ much from Humes. Most of them are blessed with good strength and health. Due to excellent reflexes and instincts, they can adapt to danger very quickly.\n\nThere are rumours of Ailuranthropes being able to morph into full cats and back. However, no conclusive proof of individuals capable of that feat exists. Compared to other Therianthrope races Ailuranthropes tend to be more aloof.",
+        "children": [
+          {
+            "title": "Racial Traits",
+            "order": 50,
+            "description": "- Accelerated Recovery:<br>increases recovery speed of all kinds\n- Adaptability:<br>temporarily increases status of choosing\n- Feline Form:<br>provides ability to shapeshift into a feline"
+          },
+          {
+            "title": "Notable Ailuranthropes",
+            "order": 100,
+            "description": "- Aiden Mittens\n- Ethan Mittens\n- Swift Mittens\n- Patrick Boots"
+          }
+        ]
+      },
+      {
+        "title": "Cynanthrope",
+        "order": 31,
+        "keywords": [
+          "Cynanthropes",
+          "Cynanthrope"
+        ],
+        "description": "One of the Therianthrope races of Cratherion. Cynanthropes are a weredog race. Aside from featuring canine ears and tails, they mostly don’t differ much from Humes. Most of them are blessed with speed. Due to excellent reflexes and instincts, they can escape from almost any situation.\n\nThere are rumours of Cynanthropes being able to morph into full dog and back.\n\nCynanthropes are said to be very loyal when you have managed to earn their loyalty.",
+        "children": [
+          {
+            "title": "Notable Cynanthropes",
+            "order": 100,
+            "description": "- Luna Bella"
+          }
+        ]
+      },
+      {
+        "title": "Neotes",
+        "order": 191,
+        "keywords": [
+          "Neotes"
+        ],
+        "description": "One of the races of Cratherion. Neotes are a childlike race. Fully grown Neotes are about the same height as ten-​year-old Humes. Some are blessed with innate luck. Neotes can be quite obsessed in their talents or possession. Due to that obsessiveness, they improve their talents faster and can achieve higher masteries at those talents than other races. That obsessiveness is also the reason they usually are seen as not that sociable.\n\nDue to their childlike appearance, some people, much to the dismay of many Neotes, like to compare Neotes with potatoes or even go so far as simply call them potatoes.",
+        "children": [
+          {
+            "title": "Racial Traits",
+            "order": 50,
+            "description": "- Mastery Obsession:<br>increases maximum skill level to level 10\n- Quick Learner:<br>increases experience gained\n- Lucky Devil: increases luck greatly"
+          },
+          {
+            "title": "Notable Neotes",
+            "order": 100,
+            "description": "- Swift Mittens"
+          }
+        ]
+      },
+      {
+        "title": "Ornithrope",
+        "order": 201,
+        "keywords": [
+          "Ornithropes",
+          "Ornithrope"
+        ],
+        "description": "One of the races of Cratherion. Ornithropes are a werebird race. Aside from featuring avian wings, they mostly don’t differ much from Humes.\n\nThere are rumours of Ornithropes being able to morph into full birds and back. However, no conclusive proof of individuals capable of that feat exists.",
+        "children": [
+          {
+            "title": "Notable Ornithropes",
+            "order": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Magic",
+    "order": 41,
+    "children": [
+      {
+        "description": "Magic of the basic element Earth.",
+        "title": "Earth Magic",
+        "order": 1,
+        "children": [
+          {
+            "title": "Grind",
+            "order": 10,
+            "keywords": [
+              "Grind"
+            ],
+            "schema_type": "cd:Spell",
+            "description": "This earth utility Spell turns any stone the user touches to sand.",
+            "element": "cd:Earth",
+            "effect": "cd:Utility"
+          },
+          {
+            "title": "Compaction",
+            "order": 20,
+            "keywords": [
+              "Compaction"
+            ],
+            "schema_type": "cd:Spell",
+            "description": "This earth utility Spell compacts sand to sandstone. The result is very uniform.",
+            "element": "cd:Earth",
+            "effect": "cd:Utility"
+          },
+          {
+            "title": "Further Compaction",
+            "order": 21,
+            "keywords": [
+              "Further Compaction"
+            ],
+            "schema_type": "cd:Spell",
+            "description": "Higher variant of Compaction. This earth utility Spell compacts parts of sandstone even more to create layers as found in natural sandstone. A Swift Original.",
+            "element": "cd:Earth",
+            "effect": "cd:Utility"
+          }
+        ]
+      },
+      {
+        "description": "Composite Element Magic",
+        "title": "Composite Magic",
+        "order": 101,
+        "children": [
+          {
+            "title": "Weathering",
+            "order": 31,
+            "keywords": [
+              "Weathering"
+            ],
+            "schema_type": "cd:Spell",
+            "description": "This earth, wind and water composite utility Spell weathers a given object with classical elements. A Swift Original.",
+            "element": [
+              "cd:Earth",
+              "cd:Fire",
+              "cd:Water",
+              "cd:Wind"
+            ],
+            "effect": "cd:Utility"
+          }
+        ]
+      },
+      {
+        "title": "Fire Magic",
+        "order": 2,
+        "children": [
+          {
+            "title": "Blaze",
+            "order": 1,
+            "keywords": [
+              "Blaze"
+            ],
+            "schema_type": "cd:Spell",
+            "description": "It's a fire spell. What did you expect?",
+            "element": "cd:Fire",
+            "effect": "cd:Attack"
+          }
+        ]
+      },
+      {
+        "title": "Attack Magic",
+        "order": 201,
+        "children": [
+          {
+            "title": "Blaze",
+            "order": 1,
+            "link": "magic-fire-magic-blaze"
+          }
+        ]
+      },
+      {
+        "title": "Utility Magic",
+        "order": 281,
+        "children": [
+          {
+            "title": "Grind",
+            "order": 1,
+            "link": "magic-earth-magic-grind"
+          },
+          {
+            "title": "Compaction",
+            "order": 11,
+            "link": "magic-earth-magic-compaction"
+          },
+          {
+            "title": "Further Compaction",
+            "order": 21,
+            "link": "magic-earth-magic-further-compaction"
+          },
+          {
+            "title": "Weathering",
+            "order": 31,
+            "link": "magic-composite-magic-weathering"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Locations",
+    "order": 51,
+    "children": [
+      {
+        "title": "Avan Forest",
+        "order": 1,
+        "schema_type": "schema:Place",
+        "keywords": [
+          "Avan Forest",
+          "Crystal Down"
+        ],
+        "description": "A mysterious Forest in Sitnalta Kingdom. As the forest becomes more disorienting the closer you get to the centre it’s not well surveyed. The people in neighbouring areas consider this forest a special place. Several people have tried settling and pushing the forest back. All attempts failed. The disorienting effect of the forest only got worse then they tried to cut down parts of the forest.\n\nGathering and hunting in the lighter parts of the forest are possible. So from time to time people do turn up. There are tales of a hill in the centre of the Forest that houses lots of Awakening Crystals. That hill, called the Crystal Down, is protected by its keeper. It said the forest protects the keeper, so he can protect both the Crystal Down and Avan Forest.",
+        "children": [
+          {
+            "title": "Neighbouring Locations",
+            "order": 100,
+            "description": "- North: Shague Mountains\n- East: Avan Highway"
+          }
+        ]
+      }, {
+        "title": "Crystal Down Cave",
+        "order": 2,
+        "schema_type": "schema:Place",
+        "keywords": [
+          "Crystal Down Cave"
+        ],
+        "description": "",
+        "children": [
+          {
+            "title": "Map",
+            "order": 100,
+            "include": "maps/cave-latest.html"
+          }
+        ]
+      },
+      {
+        "title": "Cratherion",
+        "order": 2,
+        "schema_type": "schema:Place",
+        "description": "Cratherion is the unknown world Swift happens to find himself in after getting run over by a bus."
+      },
+      {
+        "title": "Islesbury",
+        "order": 91,
+        "schema_type": "schema:Place",
+        "keywords": [
+          "Islesbury"
+        ],
+        "description": "Islesbury is a mysterious village near the southern Mountains, the Shague Mountains, of Krale Kingdom. The village is blessed by both Clayah and Suscellu.",
+        "children": [
+          {
+            "title": "Neighbouring Locations",
+            "order": 100,
+            "description": "- South: Shague Mountains"
+          }
+        ]
+      }
+    ]
+  }
+]

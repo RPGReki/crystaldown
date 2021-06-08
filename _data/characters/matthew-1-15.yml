@@ -1,0 +1,49 @@
+name: Matthew Sitnalta
+familyName: Sitnalta
+givenName: Matthew
+additionalNames:
+  - Matt
+race: 
+  - Hume
+gender: schema:Male
+age: X
+appearance:
+  eyes:
+    - blue
+  hair:
+    - blond
+    - short
+    - wild
+  height: X8
+titles: 
+  - 
+    name: Second Prince of Sitnalta
+traits: 
+  - 
+    name: Protector Spirit
+    type: Trait
+  - 
+    name: Super Intuition
+    type: Hidden Trait
+skills: 
+  - 
+    name: Fighting
+    subskills: 
+      - 
+        level: 1
+        name: Long Blade Mastery
+      - 
+        level: 2
+        name: Shield Mastery
+  - 
+    name: Magic Skills
+    subskills: 
+      - 
+        level: 4
+        name: Light Magic
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 2
+        name: Riding

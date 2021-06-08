@@ -1,0 +1,22 @@
+name: Timon Sitnalta
+familyName: Sitnalta
+givenName: Timon
+additionalNames:
+  - Timon
+race: 
+  - Hume
+gender: schema:Male
+age: 36
+appearance:
+  eyes:
+    - blue
+  hair:
+    - blond
+    - short
+    - neat
+  height: 142
+titles: 
+  - 
+    name: King of Sitnalta
+traits:
+skills:

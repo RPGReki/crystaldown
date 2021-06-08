@@ -1,0 +1,31 @@
+name: Luna Bella
+familyName: Bella
+givenName: Luna
+additionalNames:
+race: 
+  - Cynanthrope
+gender: schema:Female
+age: X
+appearance:
+  eyes:
+    - blue
+  hair:
+    - white
+    - short
+    - neat
+  height: 90
+titles: 
+traits: 
+skills:
+  - 
+    name: Fighting
+    subskills: 
+      - 
+        level: 3
+        name: Long Blade Mastery
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 2
+        name: Riding

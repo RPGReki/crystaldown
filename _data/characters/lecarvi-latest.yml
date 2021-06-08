@@ -1,0 +1,62 @@
+name: Lecarvi Sylvilagus
+familyName: Sylilagus
+givenName: Lecarvi
+additionalNames:
+  - Lecarvi, the Bard
+race: 
+  - Kouniklanthrope
+  - Anthodryad
+gender: schema:Female
+age: 23
+appearance:
+  eyes:
+    - blue
+  hair:
+    - white
+    - short
+    - wild
+  height: X8
+titles: 
+  - 
+    name: The Wandering Bard
+traits: 
+  - 
+    name: Enhanced Intuition
+    type: "Racial Trait: Kouniklanthrope"
+  - 
+    name: Restless Limbs
+    type: "Racial Trait: Kouniklanthrope"
+  - 
+    name: Flower of Mood
+    type: "Racial Trait: Anthrodryad"
+skills: 
+  - 
+    name: Arts
+    subskills:
+     - 
+       level: 6
+       name: Music Performance
+  - 
+    name: Fighting
+    subskills: 
+      - 
+        level: 6
+        name: Blunt Weapon Mastery
+  - 
+    name: Magic Skills
+    subskills: 
+      - 
+        level: 4
+        name: Forest Magic
+      - 
+        level: 4
+        name: Tool Enhancing Magic
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 2
+        name: Riding
+      - 
+        level: 6
+        name: Foraging

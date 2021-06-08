@@ -1,0 +1,41 @@
+name: Patrick Boots
+familyName: Boots
+givenName: Patrick
+additionalNames:
+  - Pat
+race: 
+  - Ailuranthrope
+gender: schema:Male
+age: X
+appearance:
+  eyes:
+    - blue
+  hair:
+    - white
+    - short
+    - neat
+  height: X8
+titles: 
+traits: 
+  - 
+    name: Accelerated Recovery
+    type: "Racial Trait: Ailuranthrope"
+  - 
+    name: Feline Form
+    type: "Hidden Racial Trait: Ailuranthrope"
+  - 
+    name: Sure Strike
+    type: Hidden Trait
+skills: 
+  - 
+    name: Magic Skills
+    subskills: 
+      - 
+        level: 7
+        name: Light Magic
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 2
+        name: Riding

@@ -1,0 +1,19 @@
+name: Alexander Luket Sr.
+familyName: Luket
+givenName: Alexander
+additionalNames: null
+race: 
+  - Hume
+gender: schema:Male
+age: X
+appearance:
+  eyes: null
+  hair: null
+  height: 1
+titles: null
+traits: null
+skills:
+  - name: Survival Skills
+    subskills:
+      - level: 2
+        name: Ridi

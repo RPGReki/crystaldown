@@ -1,0 +1,33 @@
+name: Katherine Farron
+familyName: Farron
+givenName: Katherine
+additionalNames: 
+  - Kat
+race: Hume
+gender: schema:Female
+age: X
+appearance:
+  eyes:
+    - blue
+  hair:
+    - ginger
+    - long
+    - neat
+  height: X0
+titles: null
+traits: null
+skills:
+  - name: Magic Skills
+    subskills:
+      - level: 3
+        name: Fire Magic
+      - level: 2
+        name: Ice Magic
+      - level: 3
+        name: Lightning Magic
+      - level: 4
+        name: Wind Magic
+  - name: Survival Skills
+    subskills:
+      - level: 2
+        name: Riding

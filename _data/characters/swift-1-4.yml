@@ -1,0 +1,37 @@
+name: Swift Mittens
+familyName: Mittens
+givenName: Swift
+additionalNames:
+race:
+  - Neotes
+  - Ailuranthrope
+gender: schema:Male
+age: X
+appearance:
+  height: X8
+  hair:
+    color: black
+    style:
+      - short
+      - wild
+  eyes:
+    color:
+      - emerald
+      - sapphire
+  signature_clothes:
+    - type: Headwear
+      item: Dark Green Headband
+titles:
+traits:
+  - name: Menu
+    type: Hidden Trait
+  - 
+    name: Mystic Eye of Analysis
+    type: Menu Trait
+  - 
+    name: Mystic Eye of Knowledge
+    type: Menu Trait
+  - 
+    name: Infinite Storage
+    type: Menu Trait
+skills:

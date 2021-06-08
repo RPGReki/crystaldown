@@ -1,0 +1,206 @@
+name: Swift Mittens
+familyName: Mittens
+givenName: Swift
+additionalNames:
+race:
+  - Neotes
+  - Ailuranthrope
+gender: schema:Male
+age: X
+appearance:
+  eyes:
+    - emerald
+    - sapphire
+  hair:
+    - black
+    - short
+    - wild
+  height: X8
+  signature_clothes:
+    - type: Headwear
+      item: Dark Green Headband
+titles: 
+  - 
+    name: Keeper of Crystal Down
+  - 
+    name: Druid
+    requirements: 
+      - Feline Form
+      - Forest Magic Level 5
+      - Foraging Level 5
+  - 
+    name: Jack of All Trades
+    requirements: 
+      - Fighting Level 1
+      - Magic Skills Level 1
+      - Production Skills Level 1
+  - 
+    name: Master of Magic
+    requirements: 
+      - Magic Skills Level X
+  - 
+    name: Survival Artist
+    requirements: 
+      - Survival Skills Level X
+traits: 
+  - 
+    name: Menu
+    type: Hidden Trait
+  - 
+    name: Mystic Eye of Analysis
+    type: Menu Trait
+  - 
+    name: Mystic Eye of Knowledge
+    type: Menu Trait
+  - 
+    name: Infinite Storage
+    type: Menu Trait
+  - 
+    name: Accelerated Recovery
+    type: "Racial Trait: Ailuranthrope"
+  - 
+    name: Quick Learner
+    type: "Racial Trait: Neotes"
+  - 
+    name: Feline Form
+    type: "Hidden Racial Trait: Ailuranthrope"
+  - 
+    name: Lucky Devil
+    type: "Hidden Racial Trait: Neotes"
+  - 
+    name: Appealing Charisma
+    type: Trait
+  - 
+    name: Nimble & Precise
+    type: Trait
+skills: 
+  - 
+    name: Fighting
+    level: 1
+    subskills: 
+      - 
+        level: 1
+        name: Blunt Weapon Mastery
+      - 
+        level: 1
+        name: Short Blade Mastery
+      - 
+        level: 1
+        name: Long Blade Mastery
+      - 
+        level: 1
+        name: Spear Mastery
+      - 
+        level: 1
+        name: Hand-to-Hand Combat
+      - 
+        level: 3
+        name: Bow Mastery
+      - 
+        level: 1
+        name: Shield Mastery
+  - 
+    level: X
+    name: Magic Skills
+    subskills: 
+      - 
+        level: X
+        name: Mana Perception
+      - 
+        level: X
+        name: Mana Control
+      - 
+        level: X
+        name: Fire Magic
+      - 
+        level: X
+        name: Water Magic
+      - 
+        level: X
+        name: Wind Magic
+      - 
+        level: X
+        name: Earth Magic
+      - 
+        level: X
+        name: Lightning Magic
+      - 
+        level: X
+        name: Light Magic
+      - 
+        level: X
+        name: Dark Magic
+      - 
+        level: X
+        name: Familiar Magic
+      - 
+        level: X
+        name: Space Magic
+      - 
+        level: X
+        name: Forest Magic
+      - 
+        level: 4
+        name: Telepathy
+  - 
+    level: 1
+    name: Production Skills
+    subskills: 
+      - 
+        level: 1
+        name: Alchemy
+      - 
+        level: 1
+        name: Carpenting
+      - 
+        level: 1
+        name: Compounding
+      - 
+        level: 5
+        name: Cooking
+      - 
+        level: 1
+        name: Leatherworking
+      - 
+        level: 1
+        name: Smithing
+  - 
+    level: X
+    name: Survival Skills
+    subskills: 
+      - 
+        level: X
+        name: Camping
+      - 
+        level: X
+        name: Danger Sense
+      - 
+        level: X
+        name: Evasion
+      - 
+        level: X
+        name: Fishing
+      - 
+        level: X
+        name: Foraging
+      - 
+        level: X
+        name: Presence Detection
+      - 
+        level: X
+        name: Presence Isolation
+      - 
+        level: X
+        name: Riding
+      - 
+        level: X
+        name: Trap Detection
+      - 
+        level: E
+        name: Trap Disarming
+      - 
+        level: E
+        name: Trap Setting
+      - 
+        level: X
+        name: Weakness Detection

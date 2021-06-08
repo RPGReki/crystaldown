@@ -1,0 +1,37 @@
+name: Sobe Tagun
+familyName: Tagun
+givenName: Sobe
+additionalNames:
+race: 
+  - Hume
+gender: schema:Male
+age: X
+appearance:
+  eyes:
+    - brown
+  hair:
+    - dark brown
+  height: E2
+titles: 
+  - 
+    name: Battle Nut
+traits: 
+  - 
+    name: Protector Spirit
+    type: Trait
+  - 
+    name: Battle Rage
+    type: Trait
+skills: 
+  - 
+    name: Fighting
+    subskills: 
+      - 
+        level: 8
+        name: Hand-to-Hand Combat
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 2
+        name: Riding

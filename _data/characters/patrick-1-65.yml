@@ -1,0 +1,74 @@
+name: Patrick Boots
+familyName: Boots
+givenName: Patrick
+additionalNames:
+  - Pat
+race: 
+  - Ailuranthrope
+  - Vampire
+gender: schema:Male
+age: X
+appearance:
+  eyes:
+    - sapphire
+  hair:
+    - white
+    - short
+    - neat
+  height: X8
+titles: 
+  - name: Aide of the Keeper
+traits: 
+  - 
+    name: Accelerated Recovery
+    type: "Racial Trait: Ailuranthrope"
+  - 
+    name: Feline Form
+    type: "Hidden Racial Trait: Ailuranthrope"
+  - 
+    name: Vampire Curse
+    type: "Racial Trait: Vampire"
+  - 
+    name: Noctilionine Form
+    type: "Hidden Racial Trait: Vampire"
+  - 
+    name: Daywalker
+    type: "Racial Trait: Vampire"
+  - 
+    name: Cavern Navigation
+    type: "Racial Menu Trait: Vampire"
+  - 
+    name: Sure Strike
+    type: Hidden Trait
+  - 
+    name: Menu
+    type: Vassal Trait
+  - 
+    name: Infinite Storage
+    type: Vassal Menu Trait
+  - 
+    name: Mystic Eyes of Analysis
+    type: Menu Trait
+  
+skills: 
+  - 
+    name: Fighting
+    subskills: 
+      - 
+        level: 3
+        name: Bow Mastery
+  - 
+    name: Magic Skills
+    subskills: 
+      - 
+        level: 8
+        name: Dark Magic
+      - 
+        level: 8
+        name: Light Magic
+  - 
+    name: Survival Skills
+    subskills: 
+      - 
+        level: 3
+        name: Riding
