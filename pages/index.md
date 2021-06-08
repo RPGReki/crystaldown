@@ -37,19 +37,19 @@ scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
   <a rel="alternate" type="application/atom+xml"
    href="{{ page.feed | absolute_url }}"
    title="{{ page.book.title }} Chapters Atom Feed">
-    <img src="{{ '/assets/images/feed.png' | prepend: site.staticUrl | absolute_url }}" alt="Atom Feed">
+    <img src="{{ '/assets/images/feed.png' | prepend: site.static_url | absolute_url }}" alt="Atom Feed">
   </a>
   {% endif %}
   {% if page.scribblehub %}
   <a href="{{ page.scribblehub }}" rel="alternate"
     target="_blank" rel="noopener nofollow" title="{{ page.book.title }} on Scribble Hub">
-    <img src="{{ '/assets/images/scribblehub.png' | prepend: site.staticUrl | absolute_url }}" alt="Scribble Hub">
+    <img src="{{ '/assets/images/scribblehub.png' | prepend: site.static_url | absolute_url }}" alt="Scribble Hub">
   </a>
   {% endif %}
   {% if page.wattpad %}
   <a href="{{ page.wattpad }}" rel="alternate"
     target="_blank" rel="noopener nofollow" title="{{ page.book.title }} on Wattpad">
-    <img src="{{ '/assets/images/wattpad.png' | prepend: site.staticUrl | absolute_url }}" alt="Wattpad">
+    <img src="{{ '/assets/images/wattpad.png' | prepend: site.static_url | absolute_url }}" alt="Wattpad">
   </a>
   {% endif %}
 </p>
@@ -88,7 +88,7 @@ Any resemblance to actual events, locales, or persons, living or dead, is coinci
 <!-- markdownlint-disable MD033 -->
 <div class="row">
 <div class="col-12 col-md-3">
-<img src="{{ page.path | replace: 'index.md', '/thumbnail.jpg' | prepend: '/' | prepend: site.staticUrl }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
+<img src="{{ page.path | replace: 'index.md', '/thumbnail.jpg' | prepend: '/' | prepend: site.static_url }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
 </div>
 <div class="col-12 col-md-9">
 Meet Swift Mittens who just got reincarnated as a 10-year-old catling after a traffic accident.
