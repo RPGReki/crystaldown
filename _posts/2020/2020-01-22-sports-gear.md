@@ -13,5 +13,5 @@ Why do the more interesting sports all need expensive gear to do? Good gear is s
   | where: "chapter", 24
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

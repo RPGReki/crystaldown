@@ -15,5 +15,5 @@ again until you succeed. Anyway, let's start from the beginning again:
   | where: "chapter", 0
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

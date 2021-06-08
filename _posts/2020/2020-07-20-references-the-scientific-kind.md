@@ -19,5 +19,5 @@ I did not expect to get neck pain from 2cm less height.
   | where: "chapter", 54
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

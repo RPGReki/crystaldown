@@ -21,7 +21,7 @@ feed: /crystaldown/blog.xml
   </a>
   {% endif %}
 </p>
-{% assign ps = site.posts | where: 'series', 'crystaldown' %}
+{% assign ps = site.posts | where: 'category', 'crystaldown' %}
 {% for post in ps %}
   <article itemscope itemtype="https://schema.org/BlogPosting" class="interface top-toggle hentry">
     <h2 itemprop="name" id="{{ post.title | slugify }}" class="inactive entry-title" onclick="toggleAccordion(this)">

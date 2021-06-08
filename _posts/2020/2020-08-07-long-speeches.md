@@ -13,5 +13,5 @@ Don't you hate it if you enemy keeps talking and talking and talking?
   | where: "chapter", 58
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

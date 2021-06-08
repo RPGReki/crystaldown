@@ -13,5 +13,5 @@ Some people just don't know when to quit…
   | where: "chapter", 33
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

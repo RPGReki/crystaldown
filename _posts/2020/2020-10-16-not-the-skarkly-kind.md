@@ -13,5 +13,5 @@ Vampires in this story are not of the sparkly kind. At least, Patrick isn't.
   | where: "chapter", 65
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

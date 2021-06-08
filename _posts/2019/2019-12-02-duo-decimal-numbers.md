@@ -18,7 +18,7 @@ Like this: {%include ruby base="20" text="two dozen" %}
   | where: "chapter", 3
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->
 
 If you want to learn more right now, why don't you watch a video of Numberphile about it?

@@ -13,5 +13,5 @@ What's better than having a large bath? Being able to use it whenever you like!
   | where: "chapter", 28
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

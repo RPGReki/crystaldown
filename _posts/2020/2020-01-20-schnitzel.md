@@ -13,5 +13,5 @@ Schnitzel — I could eat that every day — don't tell the Austrians I like eat
   | where: "chapter", 23
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

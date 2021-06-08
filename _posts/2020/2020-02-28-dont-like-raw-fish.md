@@ -15,5 +15,5 @@ Don't be a jerk towards the chef and open the Sushi to remove the fish…
   | where: "chapter", 39
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

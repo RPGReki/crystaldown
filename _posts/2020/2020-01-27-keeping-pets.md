@@ -14,5 +14,5 @@ If you want a pet that obediently listens to orders get a dog instead.
   | where: "chapter", 26
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

@@ -16,5 +16,5 @@ Too bad it's no use against the Anime-esque amount of nosebleed I tend to get.
   | where: "chapter", 8
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

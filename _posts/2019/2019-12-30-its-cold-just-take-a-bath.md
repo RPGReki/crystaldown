@@ -13,5 +13,5 @@ The best thing when it's cold is taking a nice hot bath. Only a hot spring could
   | where: "chapter", 14
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

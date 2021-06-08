@@ -13,5 +13,5 @@ Incorporating references is fun and so, but I'm never sure if my readers actuall
   | where: "chapter", 53
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

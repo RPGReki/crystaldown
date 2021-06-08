@@ -13,5 +13,5 @@ Time to tie some loose ends while creating some more… Anyway, stay healthy and
   | where: "chapter", 48
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

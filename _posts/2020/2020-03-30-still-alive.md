@@ -13,5 +13,5 @@ I'm still alive. This isn't a good time to catch the flu. But I'm back under the
   | where: "chapter", 43
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

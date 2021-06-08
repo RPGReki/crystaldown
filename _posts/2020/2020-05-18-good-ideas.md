@@ -13,5 +13,5 @@ Is it just me, or do the good ideas only come when you're about to take a dump?
   | where: "chapter", 45
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

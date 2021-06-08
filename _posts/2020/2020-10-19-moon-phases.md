@@ -15,5 +15,5 @@ One could ask why that subrace and its traits aren't shown in the UI…
   | where: "chapter", 66
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->

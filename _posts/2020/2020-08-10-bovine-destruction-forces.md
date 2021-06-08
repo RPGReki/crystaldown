@@ -13,6 +13,6 @@ There are quite a lot of bovine destruction forces, aren't there?
   | where: "chapter", 59
   | first %}
 
-[ {{page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
+[{{ page.title }}]({{ page.url | absolute_url }}){:.btn .btn-block .btn-primary .btn-lg}
 <!--more-->
 
