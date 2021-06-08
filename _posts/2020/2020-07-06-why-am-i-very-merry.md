@@ -1,8 +1,5 @@
 ---
 title: "Why am I very merry?"
-
-date: 2020-07-06 01:11 +02:00
-series: crystaldown
 ---
 Why am I very merry? So very, very merry?! So very, very merry?
 

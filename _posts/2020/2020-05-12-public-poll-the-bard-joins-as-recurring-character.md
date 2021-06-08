@@ -1,8 +1,5 @@
 ---
 title: "Public Poll: The bard joins as recurring character!"
-
-date: 2020-05-12 11:11 +02:00
-series: crystaldown
 ---
 Just as a recurring character, not as a main character.
 What race should the bard have?

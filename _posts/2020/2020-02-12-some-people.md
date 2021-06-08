@@ -1,8 +1,5 @@
 ---
 title: Some people…
-
-date: 2020-02-12 01:11 +01:00
-series: crystaldown
 ---
 Some people just don't know when to quit…
 

@@ -1,8 +1,5 @@
 ---
 title: Running Low…
-
-date: 2020-03-02 01:11 +01:00
-series: crystaldown
 ---
 I definitely need a boost in inspiration…
 

@@ -1,8 +1,5 @@
 ---
 title: Dead again?!
-
-date: 2020-01-15 01:11 +01:00
-series: crystaldown
 ---
 Didn't Swift just die 21 chapters ago?!
 

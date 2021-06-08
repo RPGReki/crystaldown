@@ -1,8 +1,5 @@
 ---
 title: "Smør-Panik, I mean Cheese Panic!"
-
-date: 2020-07-31 01:11 +02:00
-series: crystaldown
 ---
 It's a butter crisis too! smør-panik! But cheese is much more storable!
 

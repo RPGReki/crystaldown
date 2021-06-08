@@ -1,8 +1,5 @@
 ---
 title: Thoughts about Cities
-
-date: 2020-02-03 01:11 +01:00
-series: crystaldown
 ---
 Cities can be busy places.
 Smaller cities are quieter.

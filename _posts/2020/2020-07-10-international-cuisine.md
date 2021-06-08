@@ -1,8 +1,5 @@
 ---
 title: "International Cuisine"
-
-date: 2020-07-10 01:11 +02:00
-series: crystaldown
 ---
 Speaking of International Cuisine… what's typical food for a certain country?
 How do you define it?

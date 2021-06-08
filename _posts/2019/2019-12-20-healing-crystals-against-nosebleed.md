@@ -1,8 +1,5 @@
 ---
 title: Healing Crystals Against Nosebleed?
-
-date: 2019-12-20 23:11 +01:00
-series: crystaldown
 ---
 Crystals are fascinating.
 Some people believe some crystals have certain magical properties.

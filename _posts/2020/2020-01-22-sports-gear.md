@@ -1,8 +1,5 @@
 ---
 title: Sports Gear
-
-date: 2020-01-22 01:11 +01:00
-series: crystaldown
 ---
 Why do the more interesting sports all need expensive gear to do? Good gear is so expensive…
 

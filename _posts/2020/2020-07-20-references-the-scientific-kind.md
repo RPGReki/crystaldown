@@ -1,8 +1,5 @@
 ---
 title: "References, the Scientific Kind"
-
-date: 2020-07-20 01:11 +02:00
-series: crystaldown
 ---
 Let me quote one of my favourite stand-up mathematicians: “The question is not how much data supports your thesis.
 The question is how much data did you ignore.”

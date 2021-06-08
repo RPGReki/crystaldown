@@ -1,8 +1,5 @@
 ---
 title: Don't Like Raw Fish?
-
-date: 2020-02-28 01:11 +01:00
-series: crystaldown
 ---
 I've seen people doing this wrong:
 If you're uncomfortable with eating raw fish, just get Sushi without raw fish!

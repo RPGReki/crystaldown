@@ -1,8 +1,5 @@
 ---
 title: "I guess I need to get used to being a shorty…"
-
-date: 2019-11-18 11:11 +01:00
-series: crystaldown
 ---
 
 I guess I need to get used to being a shorty… 😭

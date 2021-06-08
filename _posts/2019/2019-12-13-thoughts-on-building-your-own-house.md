@@ -1,8 +1,5 @@
 ---
 title: Thoughts on Building Your Own House
-
-date: 2019-12-13 23:11 +01:00
-series: crystaldown
 ---
 When building your own house you decide what it looks like and what rooms it has.
 Do you want a secret room? Yeah, build one.

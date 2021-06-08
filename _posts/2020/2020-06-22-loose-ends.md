@@ -1,8 +1,5 @@
 ---
 title: "Loose Ends"
-
-date: 2020-06-22 01:11 +02:00
-series: crystaldown
 ---
 Time to tie some loose ends while creating some more… Anyway, stay healthy and enjoy the chapter.
 

@@ -1,8 +1,5 @@
 ---
 title: "About Love"
-
-date: 2020-11-09 01:11 +01:00
-series: crystaldown
 ---
 Let's talk real here…
 Just because there's love doesn't mean this story is going to include sex.

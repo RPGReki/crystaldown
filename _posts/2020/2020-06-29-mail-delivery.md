@@ -1,8 +1,5 @@
 ---
 title: "Mail Delivery"
-
-date: 2020-06-29 01:11 +02:00
-series: crystaldown
 ---
 Mail… The gist is you wait all day and it always gets delivered in the five minutes you're away.
 So you need to get to the depot and retrieve it the day after.

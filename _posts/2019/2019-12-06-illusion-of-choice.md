@@ -1,8 +1,5 @@
 ---
 title: Illusion of Choice
-
-date: 2019-12-06 23:11 +01:00
-series: crystaldown
 ---
 Many games offer a lot of choices, but usually, I manage to choose one of the few combinations that make the game almost impossible to finish.
 In other cases, the choice ceases to be one because it's mathematically provable a certain combination is better than another.

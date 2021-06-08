@@ -1,8 +1,5 @@
 ---
 title: Still Alive
-
-date: 2020-03-30 01:11 +02:00
-series: crystaldown
 ---
 I'm still alive. This isn't a good time to catch the flu. But I'm back under the living, for now.
 

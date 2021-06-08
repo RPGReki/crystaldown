@@ -1,8 +1,5 @@
 ---
 title: "Mortal Problems: Taxes"
-
-date: 2020-06-15 07:11 +02:00
-series: crystaldown
 ---
 Taxes, Reforms etc. Some things seem to have changed and starting in July, Patreon needs to put VAT on the pledges from some more countries.
 At least, that's what I understand from the loads of mails I got from Patreon, telling me to tell my Patrons about it.

@@ -1,8 +1,5 @@
 ---
 title: "Bovine Destruction Forces"
-
-date: 2020-08-10 01:11 +02:00
-series: crystaldown
 ---
 There are quite a lot of bovine destruction forces, aren't there?
 

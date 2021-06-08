@@ -1,8 +1,5 @@
 ---
 title: "Not The Sparkly Kind"
-
-date: 2020-10-16 01:11 +02:00
-series: crystaldown
 ---
 Vampires in this story are not of the sparkly kind. At least, Patrick isn't.
 

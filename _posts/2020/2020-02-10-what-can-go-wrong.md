@@ -1,8 +1,5 @@
 ---
 title: What Can Go Wrong?
-
-date: 2020-02-10 01:11 +01:00
-series: crystaldown
 ---
 What's the worst thing that can happen to you when you go shopping?
 Leaving your wallet at home?

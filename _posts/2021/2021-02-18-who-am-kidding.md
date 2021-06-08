@@ -1,8 +1,5 @@
 ---
 title: "Who am I kidding…"
-
-date: 2021-02-19 01:11 +01:00
-series: crystaldown
 ---
 You may have noticed I haven't posted a new Crystal Down chapter for a long time.
 The way the story developed wasn't doing me any favours.

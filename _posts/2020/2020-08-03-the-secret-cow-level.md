@@ -1,8 +1,5 @@
 ---
 title: "The Secret Cow Level?!"
-
-date: 2020-08-03 01:11 +02:00
-series: crystaldown
 ---
 The Secret Cow Level or Not The Cow Level?
 

@@ -1,8 +1,5 @@
 ---
 title: Damn it Mittens!
-
-date: 2020-01-17 01:11 +01:00
-series: crystaldown
 ---
 Damm it Mittens!
 

@@ -1,8 +1,5 @@
 ---
 title: "Long and Winded Speechs"
-
-date: 2020-08-07 01:11 +02:00
-series: crystaldown
 ---
 Don't you hate it if you enemy keeps talking and talking and talking?
 

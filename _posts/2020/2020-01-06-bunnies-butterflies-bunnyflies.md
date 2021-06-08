@@ -1,8 +1,5 @@
 ---
 title: Bunnies, Butterflies, Bunnyflies!
-
-date: 2020-01-06 00:01 +01:00
-series: crystaldown
 ---
 Bunnies, Butterflies, Bunnyflies!
 

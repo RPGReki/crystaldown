@@ -1,8 +1,5 @@
 ---
 title: "♫ We Just Got A Letter ♫"
-
-date: 2019-11-25 11:11 +01:00
-series: crystaldown
 ---
 
 I don't like the show this quote is from, in fact, I was already an adult when I first saw the show,

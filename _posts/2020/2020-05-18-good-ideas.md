@@ -1,8 +1,5 @@
 ---
 title: "Good Ideas…"
-
-date: 2020-05-18 01:11 +02:00
-series: crystaldown
 ---
 Is it just me, or do the good ideas only come when you're about to take a dump?
 

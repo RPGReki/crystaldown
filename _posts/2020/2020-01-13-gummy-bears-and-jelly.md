@@ -1,8 +1,5 @@
 ---
 title: Gummy Bears and Jelly
-
-date: 2020-01-13 01:11 +01:00
-series: crystaldown
 ---
 Gummy bears and jelly have the same ingredients, the only difference is the water content.
 Some gummy bear variants have a coating of wax added so they don't stick.

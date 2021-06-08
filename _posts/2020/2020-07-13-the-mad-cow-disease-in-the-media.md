@@ -1,8 +1,5 @@
 ---
 title: "The Mad Cow Disease in the Media"
-
-date: 2020-07-13 01:11 +02:00
-series: crystaldown
 ---
 The Mad Cow Disease was big in the news in 90s.
  ut news these days don't care much about it anymore.

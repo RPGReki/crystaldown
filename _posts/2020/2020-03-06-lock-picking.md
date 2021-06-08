@@ -1,8 +1,5 @@
 ---
 title: Lock Picking
-
-date: 2020-03-06 01:11 +01:00
-series: crystaldown
 ---
 I can't pick locks. Not with the level of fine control I have. That is none.
 

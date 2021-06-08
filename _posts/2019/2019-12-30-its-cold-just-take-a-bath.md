@@ -1,8 +1,5 @@
 ---
 title: It's cold? Just take a hot bath!
-
-date: 2019-12-30 11:11 +01:00
-series: crystaldown
 ---
 The best thing when it's cold is taking a nice hot bath. Only a hot spring could make it better!
 

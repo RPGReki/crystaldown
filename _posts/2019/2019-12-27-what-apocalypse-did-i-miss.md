@@ -1,8 +1,5 @@
 ---
 title: What Apocalypse did I miss?
-
-date: 2019-12-27 01:11 +01:00
-series: crystaldown
 ---
 The shops are open again today.
 That just means one things — all the shops are overcrowded.

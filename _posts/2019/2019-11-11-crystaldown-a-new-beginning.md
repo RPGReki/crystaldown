@@ -1,8 +1,5 @@
 ---
 title: "Crystal Down — A New Beginning"
-
-date: 2019-11-11 11:11 +01:00
-series: crystaldown
 ---
 
 I did it again. I nuked a project to start a new one like it. But that's how it is: try, try and try

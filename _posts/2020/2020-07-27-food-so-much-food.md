@@ -1,8 +1,5 @@
 ---
 title: "Food, So Much Food…"
-
-date: 2020-07-27 01:11 +02:00
-series: crystaldown
 ---
 Maybe I should open a recipe subpage on the site…
 

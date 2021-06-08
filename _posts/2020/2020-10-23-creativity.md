@@ -1,8 +1,5 @@
 ---
 title: "Creativity = Experimentation"
-
-date: 2020-10-23 01:11 +02:00
-series: crystaldown
 ---
 Being creative means experimenting!
 {% assign page = site.pages

@@ -1,8 +1,5 @@
 ---
 title: "Final Chapter"
-
-date: 2020-10-05 01:11 +02:00
-series: crystaldown
 ---
 Final Chapter… time to move on… from Volume 1.
 

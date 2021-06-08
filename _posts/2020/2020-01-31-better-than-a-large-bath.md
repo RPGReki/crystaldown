@@ -1,8 +1,5 @@
 ---
 title: Better Than A Large Bath?!
-
-date: 2020-01-31 01:11 +01:00
-series: crystaldown
 ---
 What's better than having a large bath? Being able to use it whenever you like!
 

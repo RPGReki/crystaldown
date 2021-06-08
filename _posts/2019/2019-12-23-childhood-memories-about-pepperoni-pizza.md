@@ -1,8 +1,5 @@
 ---
 title: Childhood Memories about Pepperoni Pizza
-
-date: 2019-12-23 11:11 +01:00
-series: crystaldown
 ---
 Being a native German speaker, I had the wrong impression about Americans and their cartoon characters eating pizza spicy.
 All due to a single false friend.

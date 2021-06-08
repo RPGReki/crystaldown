@@ -1,8 +1,5 @@
 ---
 title: "Face Masks"
-
-date: 2020-05-25 01:11 +02:00
-series: crystaldown
 ---
 So I've been on the train today.
 In Germany, you are required to wear masks while you travel with any public transport.

@@ -1,8 +1,5 @@
 ---
 title: Schnitzel
-
-date: 2020-01-20 01:11 +01:00
-series: crystaldown
 ---
 Schnitzel — I could eat that every day — don't tell the Austrians I like eating it with different kinds of sauces.
 

@@ -1,8 +1,5 @@
 ---
 title: Basic Cryptanalysis
-
-date: 2020-02-19 01:11 +01:00
-series: crystaldown
 ---
 Basic Cryptanalysis is just counting and doing math.
 

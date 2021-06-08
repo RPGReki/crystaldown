@@ -1,8 +1,5 @@
 ---
 title: Keeping Pets
-
-date: 2020-01-27 01:11 +01:00
-series: crystaldown
 ---
 Cats are pets that do have their own character.
 If you want a pet that obediently listens to orders get a dog instead.

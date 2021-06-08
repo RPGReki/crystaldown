@@ -1,8 +1,5 @@
 ---
 title: My Inspriration Is Back!
-
-date: 2020-04-28 01:11 +02:00
-series: crystaldown
 ---
 My inspiration is back. For now.
 I hope it stays that way.

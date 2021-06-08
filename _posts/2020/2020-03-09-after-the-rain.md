@@ -1,8 +1,5 @@
 ---
 title: After the Rain
-
-date: 2020-03-09 01:11 +01:00
-series: crystaldown
 ---
 What's best after a trip in the cold rain? A hot bath!
 

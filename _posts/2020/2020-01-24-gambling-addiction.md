@@ -1,8 +1,5 @@
 ---
 title: Gambling Addiction
-
-date: 2020-01-24 01:11 +01:00
-series: crystaldown
 ---
 Gambling is addicting.
 But with the right people, it sure is fun.

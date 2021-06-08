@@ -1,8 +1,5 @@
 ---
 title: "Comedic Story"
-
-date: 2020-08-14 01:11 +02:00
-series: crystaldown
 ---
 Wasn't this story supposed to be a comedic story?
 

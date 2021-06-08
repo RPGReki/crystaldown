@@ -1,8 +1,5 @@
 ---
 title: Just a short chapter…
-
-date: 2020-01-03 23:11 +01:00
-series: crystaldown
 ---
 It's just a short chapter today.
 

@@ -1,8 +1,5 @@
 ---
 title: "More Options"
-
-date: 2020-07-10 16:05 +02:00
-series: crystaldown
 ---
 I was motivated to revamp my code. While I was at it, I also added 2 more options to the page:
 Toggle Line Height and Toggle Dyslexic Font.

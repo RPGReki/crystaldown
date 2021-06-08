@@ -1,8 +1,5 @@
 ---
 title: "Duodecimal Numbers"
-
-date: 2019-12-02 11:11 +01:00
-series: crystaldown
 ---
 This novel includes duodecimal numbers.
 Until Swift learns how the numbers a read all numbers are converted to decimal in the ruby annotations.

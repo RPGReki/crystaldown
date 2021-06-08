@@ -1,8 +1,5 @@
 ---
 title: Lots of Visitors
-
-date: 2020-01-08 01:00 +01:00
-series: crystaldown
 ---
 Crystal Down has a lot of visitors lately…
 
