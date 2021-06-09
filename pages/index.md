@@ -95,7 +95,7 @@ Meet Swift Mittens who just got reincarnated as a 10-year-old catling after a tr
 Having just woken up in a new world with no real explanation, our kitten shows he lacks any common sense whatsoever while he tries to cope with his situation as good as he can: being alone in the middle of nowhere, with no fixed shelter, no stable source of food — but with a kind of gaming interface and his not so helpful knowledge from playing MMOs in his past life.
 A good start to an adventure… or it would be an adventure if he didn't hole himself up in the middle of the forest in the first place!
 
-<h3 class="mt-3"> Life in Avan Forest Chapters </h3>
+<h3 class="mt-3">Life in Avan Forest Chapters</h3>
 
 {% assign pages = site.pages
   | where: "lang", "en-CA"
@@ -163,4 +163,4 @@ After returning from the way too eventful trip Matthew's aide Patrick gets badly
 
 ### Glossary
 
-See the [Crystal Down Glossary](/crystaldown/glossary/){:.btn .btn-large .btn-primary}.
+See the [Crystal Down Glossary](./glossary/){:.btn .btn-large .btn-primary}.
