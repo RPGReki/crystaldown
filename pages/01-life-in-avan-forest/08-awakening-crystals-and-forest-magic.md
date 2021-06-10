@@ -56,7 +56,7 @@ Out of options, I analyze the colourless crystal.
 So I must have gained a skill or a trait.
 Let me see… I open my character window.
 
-{% include character-window character="swift-1-8" %}
+{% include character/window.md character="swift-1-8" %}
 
 I think I have gained the Forest Magic skill.
 Neat! I think I also got the title “Druid”.

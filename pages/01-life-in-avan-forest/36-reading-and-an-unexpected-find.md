@@ -99,7 +99,7 @@ Oh, I see…
 
 I take a look at his Character Window.
 
-{% include character-window character="patrick-1-36" %}
+{% include character/window.md character="patrick-1-36" %}
 
 Sure Strike, a trait that has a chance to guarantee a hit.
 So…

@@ -250,7 +250,7 @@ The group is still in viewing distance.
 Let's analyze the boy.
 Does it even work on him?
 
-{% include character-window character="matthew-1-15" %}
+{% include character/window.md character="matthew-1-15" %}
 
 So the first person my age I meet turns out to be a prince.
 The second prince, no less.

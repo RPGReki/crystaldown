@@ -20,4 +20,4 @@ Like this: {%include ruby base="20" text="two dozen" %}
 
 If you want to learn more right now, why don't you watch a video of Numberphile about it?
 
-{% include youtube videotitle="Base 12 - Numberphile" videoid="U6xJfP7-HCc" %}
+{% include youtube.htmlvideotitle="Base 12 - Numberphile" videoid="U6xJfP7-HCc" %}

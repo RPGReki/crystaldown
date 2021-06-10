@@ -131,7 +131,7 @@ His voice sounds quite deep.
 Did I gain a skill?
 I check my Character Window.
 
-{% include character-window character="swift-1-17" %}
+{% include character/window.md character="swift-1-17" %}
 
 It looks like I've gained Telepathy Level 3.
 I have gained Forest Magic too.

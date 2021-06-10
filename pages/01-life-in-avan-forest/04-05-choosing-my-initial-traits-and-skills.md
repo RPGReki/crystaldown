@@ -36,7 +36,7 @@ excerpt: |
 I sit down and take a look at my character information.
 <!--more-->
 
-{% include character-window character="swift-1-4" %}
+{% include character/window.md character="swift-1-4" %}
 
 That's a very bare character window.
 As I said before, there are no character levels.
@@ -188,7 +188,7 @@ Magic sounds nice.
 Now that I've spent my skill masteries, I spend the remaining books to get all fighting and production skills at level one.
 I should take a look at my character window now.
 
-{% include character-window character="swift-1-5" %}
+{% include character/window.md character="swift-1-5" %}
 
 What's this?
 While most of the maximum level skills are level {% include ruby base="X" text="ten"%}, some of those skills are level {% include ruby base="E" text="eleven"%}.

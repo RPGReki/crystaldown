@@ -48,7 +48,7 @@ It shouldn't matter that much if you just took a little.”
 
 I quickly get a glance of her character info.
 
-{% include character-window character="lecarvi-1-46" %}
+{% include character/window.md character="lecarvi-1-46" %}
 
 Enhanced Intuition, so I guess it's not as good as Matt's Super Intuition.
 

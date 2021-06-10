@@ -26,7 +26,7 @@ location:
 I think of my own information.
 Something appears in my vision.
 
-{% include character-window character="patrick-1-65" %}
+{% include character/window.md character="patrick-1-65" %}
 
 So this is the information Swift has access to.
 It's no wonder he immediately knew what happened to me.
