@@ -1,0 +1,10 @@
+{
+	"languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+		"catling"
+	],
+	"languageToolLinter.languageTool.disabledRules": "CONFUSION_RULE_PLACES_PLACED,EN_QUOTES",
+	"languageToolLinter.languageTool.language": "en-CA",
+	"languageToolLinter.languageTool.motherTongue": "de",
+	"languageToolLinter.lintOnOpen": true,
+	"languageToolLinter.serviceType": "public"
+}
