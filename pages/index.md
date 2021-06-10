@@ -6,6 +6,9 @@ date: 2019-11-11
 shortlink: /cd/
 excerpt: "Meet Swift who just got reincarnated as a 10-year-old catling after a traffic accident. Having just woken up in a new world with no real explanation, our kitten shows he lacks any common sense whatsoever…"
 
+book:
+  series: Crystal Down
+
 feed: /crystaldown/chapters.xml
 scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
 ---
@@ -28,38 +31,13 @@ scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
 </script>
 
 <!-- markdownlint-disable MD025 -->
-# Crystal Down Web Novel Overview
+# {{ page.title }}
 
-<!-- markdownlint-disable MD033 -->
-<p class="social icons">
-  {% if page.feed %}
-  <link rel="alternate" type="application/atom+xml" href="{{ page.feed | absolute_url }}" title="{{ page.book.title }} Chapters Atom Feed">
-  <a rel="alternate" type="application/atom+xml"
-   href="{{ page.feed | absolute_url }}"
-   title="{{ page.book.title }} Chapters Atom Feed">
-    <img src="{{ '/assets/images/feed.png' | prepend: site.static_url | absolute_url }}" alt="Atom Feed">
-  </a>
-  {% endif %}
-  {% if page.scribblehub %}
-  <a href="{{ page.scribblehub }}" rel="alternate"
-    target="_blank" rel="noopener nofollow" title="{{ page.book.title }} on Scribble Hub">
-    <img src="{{ '/assets/images/scribblehub.png' | prepend: site.static_url | absolute_url }}" alt="Scribble Hub">
-  </a>
-  {% endif %}
-  {% if page.wattpad %}
-  <a href="{{ page.wattpad }}" rel="alternate"
-    target="_blank" rel="noopener nofollow" title="{{ page.book.title }} on Wattpad">
-    <img src="{{ '/assets/images/wattpad.png' | prepend: site.static_url | absolute_url }}" alt="Wattpad">
-  </a>
-  {% endif %}
-</p>
-<!-- markdownlint-enable MD033 -->
+{% include series-overview/urls.html %}
 
 ## Disclaimer
 
-This is a work of fiction.
-Names, characters, places, and incidents are the product of the author's imagination or are used fictitiously.
-Any resemblance to actual events, locales, or persons, living or dead, is coincidental.
+{% include series-overview/disclaimer.md %}
 
 ## Volume&nbsp;01: Life&nbsp;in&nbsp;Avan&nbsp;Forest
 
@@ -68,7 +46,7 @@ Any resemblance to actual events, locales, or persons, living or dead, is coinci
   "@context": "https://schema.org",
   "@type": "Book",
   "url": "{{ page.url | absolute_url }}#volume01-lifeinavanforest",
-  "name": "{{ site.title }} 1: Life in Avan Forest",
+  "name": "{{ site.book.series }} 1: Life in Avan Forest",
   "position": "1",
   "copyrightYear": "2019-2020",
   "inLanguage": "en-CA",
@@ -122,7 +100,7 @@ A good start to an adventure… or it would be an adventure if he didn't hole hi
   "@context": "https://schema.org",
   "@type": "Book",
   "url": "{{ page.url | absolute_url }}#volume02-vampireaideandexodus",
-  "name": "{{ site.title }} 2: Vampire Aide and Exodus",
+  "name": "{{ site.book.series }} 2: Vampire Aide and Exodus",
   "position": "1",
   "copyrightYear": "2020",
   "inLanguage": "en-CA",
