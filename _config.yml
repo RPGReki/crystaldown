@@ -64,6 +64,10 @@ liquid:
 # Syntax
 markdown: kramdown
 
+wns:
+  quads: true
+  abbreviations: true
+
 ## Defaults
 defaults:
   - # /
@@ -74,8 +78,6 @@ defaults:
       author: reki
       publisher: reki
       image: /assets/images/site-og.png
-      comments: true
-      commenting: open
       published: true
       image: /assets/images/site-og.png
       canonical_domain: https://0xreki.de/crystaldown
@@ -106,8 +108,6 @@ defaults:
       author: reki
       publisher: reki
       additional_js: hyphenate
-      comments: true
-      commenting: open
       published: true
       termbase: /crystaldown
       book:
