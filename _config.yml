@@ -6,7 +6,7 @@ source: docs-src
 destination: docs
 
 url: "https://0xreki.github.io/crystaldown"
-static_url: ''
+static_url: 'https://0xreki.github.io'
 
 permalink: pretty
 future: true
