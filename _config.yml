@@ -5,8 +5,9 @@ description: "Creative Writing, Mahjong and more!"
 source: docs-src
 destination: docs
 
-url: "https://0xreki.github.io/crystaldown"
-static_url: 'https://0xreki.github.io'
+url: https://0xreki.github.io/crystaldown
+static_url: https://0xreki.github.io
+breadcrumb_domain: https://0xreki.github.io
 
 permalink: pretty
 future: true
@@ -34,9 +35,6 @@ plugins:
   - jekyll-wns
 
 remote_theme: 0xReki/crystaldown-theme
-
-## SEO
-canonical_domain: https://0xreki.de/crystaldown
 
 patreon:
   title: Become a Patron to get early access to new chapters
