@@ -67,7 +67,11 @@ scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
 <!-- markdownlint-disable MD033 -->
 <div class="row">
 <div class="col-12 col-md-3">
-<img src="{{ page.path | replace: 'index.md', '/thumbnail.jpg' | prepend: '/' | prepend: site.static_url | absolute_url }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
+{% if page.canonical_domain %}
+<img src="thumbnail.jpg" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
+{% else %}
+<img src="{{ page.path | replace: 'index.md', '/thumbnail.jpg' | prepend: '/' | prepend: site.static_url | absolute_url }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">}
+{% endif %}
 </div>
 <div class="col-12 col-md-9">
 Meet Swift Mittens who just got reincarnated as a 10-year-old catling after a traffic accident.
