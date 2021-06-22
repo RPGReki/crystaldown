@@ -2,7 +2,7 @@
 published: sponsors
 title: The First Bite
 title_postfix: "Patrick"
-date: 2021-06-25 01:11 +01:00
+date: 2021-07-02 01:11 +01:00
 
 chapter: 74
 shortlink: /cd/2/74/
