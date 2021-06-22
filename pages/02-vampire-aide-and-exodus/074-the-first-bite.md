@@ -1,11 +1,14 @@
 ---
-published: pre-sponsors
-title: N/A
+published: sponsors
+title: The First Bite
 title_postfix: "Patrick"
-date: 2021-07-01 01:11 +01:00
+date: 2021-06-25 01:11 +01:00
 
 chapter: 74
 shortlink: /cd/2/74/
+
+checker:
+  - lt
 
 editor:
 
@@ -24,13 +27,13 @@ After several days, we arrive at our estate.
 It's been years since I've been here.
 Everything still seems the same.
 
-“Welcome to the Boots Estate, honoured guest”, XXX greets us, “welcome back, Master Samuel, Lady Samantha, Young Master Patrick, Young Master Paige.”
+“Welcome to the Boots Estate, honoured guest”, Roland greets us, “welcome back, Master Samuel, Lady Samantha, Young Master Patrick, Young Master Paige.”
 
-“XXX, this is Swift Mittens, the newly appointed Keeper of the Avan Forest,” father introduces him, “due to circumstances Patrick regularly needs to receive care by the keeper.”
+“Roland, this is Swift Mittens, the newly appointed Keeper of the Avan Forest,” father introduces him, “due to circumstances Patrick regularly needs to receive care by the keeper.”
 
 “I understand, I'll make the necessary arrangements.”
 
-XXX leads us to our rooms.
+Roland leads us to our rooms.
 This is my old room.
 Everything is just as a left it when I became Matt's aide.
 As requested, Swift's room is the guest room directly adjacent to my room.
@@ -76,7 +79,8 @@ No, focus Patrick, this is no good!
 
 “I… I'll try to think of one.”
 
-Swift seems surprised. Upon seeing my questioning look, he adds: “I completely forgot I could try to make a spell for that.”
+Swift seems surprised.
+Upon seeing my questioning look, he adds: “I completely forgot I could try to make a spell for that.”
 
 “You do know I was joking, there's no way you can just create a spell.”
 
@@ -101,4 +105,6 @@ I guess we have to experiment more when we're back in the forest.”
 
 “Yes, but first, you need your etiquette lessons.”
 
-“”
+Swift's face shows he doesn't like the very idea of etiquette lessons.
+
+“Don't worry, you'll get the hang of it.”
