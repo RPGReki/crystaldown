@@ -2,7 +2,7 @@ name: Swift Mittens
 familyName: Mittens
 givenName: Swift
 additionalNames:
-race:
+species:
   - Neotes
   - Ailuranthrope
 gender: schema:Male
