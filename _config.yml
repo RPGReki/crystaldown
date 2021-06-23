@@ -105,7 +105,6 @@ defaults:
       lang: "en-CA"
       author: reki
       publisher: reki
-      additional_js: hyphenate
       published: true
       termbase: /crystaldown
       book:
@@ -131,7 +130,6 @@ defaults:
       lang: "en-CA"
       author: reki
       publisher: reki
-      additional_js: hyphenate
       comments: true
       commenting: open
       published: true

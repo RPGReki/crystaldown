@@ -9,6 +9,11 @@ excerpt: "Meet Swift who just got reincarnated as a 10-year-old catling after a 
 book:
   series: Crystal Down
 
+intermediate_breadcrumbs:
+  -
+    title: Archived Projects
+    url: /archive/
+
 feed: /crystaldown/chapters.xml
 scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
 
