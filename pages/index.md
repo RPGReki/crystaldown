@@ -124,8 +124,8 @@ A good start to an adventure… or it would be an adventure if he didn't hole hi
 </script>
 
 Swift Mittens has been reincarnated in another world as a ten-year-old catling after a traffic accident.
-After setting up his base in Avan Forest he was named to be the keeper of the hill he happened to dug his cave into.
-He befriends Matthew, the second price of Sitnalta and ends up joining Matthew and his group for a simple errand to a dairy farm village.
+After setting up his base in Avan Forest, he was named to be the keeper of the hill he happened to dug his cave into.
+He befriends Matthew, the second price of Sitnalta, and ends up joining Matthew and his group for a simple errand to a dairy farm village.
 After returning from the way too eventful trip, Matthew's aide Patrick gets badly poisoned!
 
 ### Vampire Aide and Exodus Chapters
