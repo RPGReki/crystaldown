@@ -8,6 +8,9 @@ shortlink: /cd/1/6/
 
 redirect_from:
   - /crystaldown/crystaldown/01-life-in-avan-forest/06-07-digging-my-cave/
+  - /01-life-in-avan-forest/06-digging-my-cave-the-living-room/
+  - /01-life-in-avan-forest/07-digging-my-cave-the-kitchen/
+  - /cd/1/7/
 
 checker:
   - pwa
@@ -15,11 +18,6 @@ checker:
 current_chapters: "6 & 7"
 previous_chapter: 4
 next_chapter: 8
-
-redirect_from:
-  - /01-life-in-avan-forest/06-digging-my-cave-the-living-room/
-  - /01-life-in-avan-forest/07-digging-my-cave-the-kitchen/
-  - /cd/1/7/
 
 characters:
   main:
