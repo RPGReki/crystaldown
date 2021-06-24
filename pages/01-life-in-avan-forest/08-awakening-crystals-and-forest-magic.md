@@ -6,6 +6,9 @@ date: 2019-12-20 23:11 +01:00
 chapter: 8
 shortlink: /cd/1/8/
 
+redirect_from:
+  - /crystaldown/crystaldown/01-life-in-avan-forest/08-awakening-crystals-and-forest-magic/
+
 checker:
   - pwa
 

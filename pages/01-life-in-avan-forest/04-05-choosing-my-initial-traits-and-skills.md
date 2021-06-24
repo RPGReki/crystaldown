@@ -6,6 +6,9 @@ date: 2019-12-06 23:11 +01:00
 chapter: 4
 shortlink: /cd/1/4/
 
+redirect_from:
+  - /crystaldown/crystaldown/01-life-in-avan-forest/04-05-choosing-my-initial-traits-and-skills/
+
 checker:
   - pwa
 

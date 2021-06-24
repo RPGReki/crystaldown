@@ -6,6 +6,9 @@ date: 2019-12-13 23:11 +01:00
 chapter: 6
 shortlink: /cd/1/6/
 
+redirect_from:
+  - /crystaldown/crystaldown/01-life-in-avan-forest/06-07-digging-my-cave/
+
 checker:
   - pwa
 
