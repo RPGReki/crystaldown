@@ -9,6 +9,7 @@ shortlink: /cd/1/e/
 robots: noindex
 sitemap: false
 chapter: 101
+skip_amp: true
 ---
 <section epub:type="notice">
 {% include_relative frontmatter/notice.html.inc %}
