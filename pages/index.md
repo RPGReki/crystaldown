@@ -73,9 +73,9 @@ scribblehub: https://www.scribblehub.com/series/75079/crystal-down/
 <div class="row">
 <div class="col-12 col-md-3">
 {% if page.canonical_domain %}
-<img src="thumbnail.webp" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
+<img loading="lazy" src="thumbnail.webp" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
 {% else %}
-<img src="{{ '/crystaldown/thumbnail.webp' | prepend: site.static_url | absolute_url }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
+<img loading="lazy" src="{{ '/crystaldown/thumbnail.webp' | prepend: site.static_url | absolute_url }}" alt="Crystal Down Cover: boy with cat ears sleeps on the lap of another boy">
 {% endif %}
 </div>
 <div class="col-12 col-md-9">
