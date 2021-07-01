@@ -1,5 +1,4 @@
 ---
-published: sponsors
 title: The First Bite
 title_postfix: "Patrick"
 date: 2021-07-02 01:11 +01:00
@@ -11,7 +10,7 @@ checker:
   - lt
 
 editor:
-
+  - jayfeather
 
 characters:
   main:
