@@ -1,0 +1,65 @@
+---
+layout: compress
+redirect_from: 
+  - /feeds/crystaldown/podcast-ogg.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+{% assign series = "Crystal Down" %}
+{% assign url = "/crystaldown" %}
+{% assign image_url = "/crystaldown/thumbnail.webp" %}
+{% assign image_itunes_url = "/crystaldown/itunes.png" %}
+{% assign author = site.data.staff | where: 'id', 'reki' | last %}
+{% assign pages = site.pages | where: "type", "chapter" | where: "book.series", series | sort_natural: "date" | reverse %}
+  <channel>
+    <title>{{ series }}</title>
+    <link>{{ url | absolute_url }}</link>
+    <image>
+      <url>{{ image_itunes_url | absolute_url }}</url>
+      <title>{{ series }}</title>
+      <link>{{ url | absolute_url }}</link>
+    </image>
+
+    <description>Meet Swift Mittens who just got reincarnated as a 10-year-old catling after a traffic accident.
+Having just woken up in a new world with no real explanation, our kitten shows he lacks any common sense whatsoever while he tries to cope with his situation as good as he can: being alone in the middle of nowhere, with no fixed shelter, no stable source of food — but with a kind of gaming interface and his not so helpful knowledge from playing MMOs in his past life.
+A good start to an adventure… or it would be an adventure if he didn't hole himself up in the middle of the forest in the first place!</description>
+     
+    <language>en-CA</language>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+    <itunes:author>{{ author.name }}</itunes:author>
+    <itunes:owner>
+      <itunes:name>{{ author.name }}</itunes:name>
+      <itunes:email>{{ author.email }}</itunes:email>
+    </itunes:owner>
+    
+    <itunes:type>serial</itunes:type>
+    <itunes:keywords>web novel,slice of life,comedy,fantasy,science fiction</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Fiction" />
+    <copyright>{{ site.copyright.license }} {{ site.copyright.name }}</copyright>
+
+{% for page in pages %}
+{% if page.published == "sponsors" or page.published == "pre-sponsors"%}{% continue %}{% endif %}
+{% unless page.audio %}{% continue %}{% endunless %}
+{% capture description %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | replace: "&thinsp;", " " }}{% else %}{{ page.content | markdownify | strip_html | truncatewords: 50, "…" | replace: "&thinsp;", " " }}{% endif %}{% endcapture %}
+    <item>
+      <title>Chapter {{ page.chapter | prepend: '000' | slice: -3, 3 }}: {{ page.title }}</title>
+      <link>{{ page.url | absolute_url }}</link>
+      <itunes:author>{{ author.name }}</itunes:author>
+      <guid>{{ page.shortlink | absolute_url }}</guid>
+      <pubDate>{{ page.audio.date | date_to_rfc822 }}</pubDate>
+      <description>{{ description }}</description>
+      <itunes:summary>{{ description }}</itunes:summary>
+      {% assign audiopath = page.path | replace: '.md', '.mp3' %}
+      <itunes:duration>{{ audiopath | mp3_duration }}</itunes:duration>
+      {% for mirror in page.book.audio_mirror %}
+      <enclosure type="audio/mpeg" url="{{ audiopath | replace: 'crystaldown/', mirror }}" length="{{ audiopath | file_size }}" />
+      {% endfor %}
+      <enclosure type="audio/mpeg" url="{{ audiopath | prepend: '/' | absolute_url }}" length="{{ audiopath | file_size }}" />
+    </item>{% endfor %}
+  </channel>
+</rss>
