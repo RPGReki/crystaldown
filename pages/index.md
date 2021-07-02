@@ -8,6 +8,7 @@ excerpt: "Meet Swift who just got reincarnated as a 10-year-old catling after a 
 
 book:
   series: Crystal Down
+  title: Crystal Down
 
 intermediate_breadcrumbs:
   -
