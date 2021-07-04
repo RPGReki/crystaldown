@@ -84,7 +84,7 @@ defaults:
       path: "_posts"
     values:
       category: crystaldown
-      layout: 2020/post
+      layout: 2021/post
       type: post
       lang: "en-CA"
       author: reki
@@ -100,7 +100,7 @@ defaults:
     scope:
       path: "01-life-in-avan-forest"
     values:
-      layout: 2020/chapter
+      layout: 2021/chapter
       type: chapter
       lang: "en-CA"
       author: reki
@@ -125,7 +125,7 @@ defaults:
     scope:
       path: "02-vampire-aide-and-exodus"
     values:
-      layout: 2020/chapter
+      layout: 2021/chapter
       type: chapter
       lang: "en-CA"
       author: reki
