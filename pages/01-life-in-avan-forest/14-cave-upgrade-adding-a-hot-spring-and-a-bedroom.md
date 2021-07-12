@@ -12,7 +12,7 @@ checker:
   - pwa
 
 redirect_from:
-  - /01-life-in-avan-forest/14-cave-upgrade-adding-a-hotspring-and-a-bedroom/
+  - /01-life-in-avan-forest/14
 
 characters:
   main:

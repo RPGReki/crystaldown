@@ -7,7 +7,7 @@ chapter: 1
 shortlink: /cd/1/1/
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/01-oh-im-a-potato-cat/
+  - /crystaldown/crystaldown/01-life-in-avan-forest/01
 
 checker:
   - pwa

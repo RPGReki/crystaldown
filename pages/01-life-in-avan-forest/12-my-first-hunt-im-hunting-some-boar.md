@@ -10,7 +10,7 @@ checker:
   - pwa
 
 redirect_from:
-  - /01-life-in-avan-forest/12-the-first-hunt/
+  - /01-life-in-avan-forest/12
 
 editor: notKeoni
 

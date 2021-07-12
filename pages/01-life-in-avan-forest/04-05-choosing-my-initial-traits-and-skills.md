@@ -7,9 +7,9 @@ chapter: 4
 shortlink: /cd/1/4/
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/04-05-choosing-my-initial-traits-and-skills/
-  - /01-life-in-avan-forest/04-choosing-my-initial-traits-and-skills/
-  - /01-life-in-avan-forest/05-making-a-campfire-with-magic/
+  - /crystaldown/crystaldown/01-life-in-avan-forest/04
+  - /01-life-in-avan-forest/04
+  - /01-life-in-avan-forest/05
   - /cd/1/5/
 
 checker:

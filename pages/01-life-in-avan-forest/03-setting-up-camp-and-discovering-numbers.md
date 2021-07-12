@@ -7,7 +7,7 @@ chapter: 3
 shortlink: /cd/1/3/
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/03-setting-up-camp-and-discovering-numbers/
+  - /crystaldown/crystaldown/01-life-in-avan-forest/03
 
 checker:
   - pwa

@@ -9,7 +9,7 @@ shortlink: /cd/1/0/
 seo_meta_fix: 1
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/00-prologue-the-bus-factor/
+  - /crystaldown/crystaldown/01-life-in-avan-forest/00
 
 editor:
   - n0thing

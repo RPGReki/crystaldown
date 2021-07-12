@@ -7,7 +7,7 @@ chapter: 2
 shortlink: /cd/1/2/
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/02-i-got-mail-i-wonder-who-its-from/
+  - /crystaldown/crystaldown/01-life-in-avan-forest/02
 
 checker:
   - pwa
