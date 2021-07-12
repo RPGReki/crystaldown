@@ -8,6 +8,7 @@ shortlink: /cd/1/6/
 
 redirect_from:
   - /crystaldown/crystaldown/01-life-in-avan-forest/06
+  - /crystaldown/crystaldown/01-life-in-avan-forest/07
   - /01-life-in-avan-forest/06
   - /01-life-in-avan-forest/07
   - /cd/1/7/

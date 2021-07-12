@@ -9,7 +9,8 @@ shortlink: /cd/1/0/
 seo_meta_fix: 1
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/00
+  - /crystaldown/01-life-in-avan-forest/00
+  - /01-life-in-avan-forest/00
 
 editor:
   - n0thing

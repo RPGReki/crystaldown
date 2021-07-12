@@ -7,7 +7,8 @@ chapter: 3
 shortlink: /cd/1/3/
 
 redirect_from:
-  - /crystaldown/crystaldown/01-life-in-avan-forest/03
+  - /crystaldown/01-life-in-avan-forest/03
+  - /01-life-in-avan-forest/03
 
 checker:
   - pwa
