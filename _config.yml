@@ -75,9 +75,8 @@ defaults:
       lang: "en-CA"
       author: reki
       publisher: reki
-      image: /assets/images/site-og.webp
       published: true
-      image: /assets/images/site-og.webp
+      image: /crystaldown/images/-og.avif
       canonical_domain: https://0xreki.de/crystaldown
   - # /_posts
     scope:
@@ -89,11 +88,10 @@ defaults:
       lang: "en-CA"
       author: reki
       publisher: reki
-      image: /assets/images/site-og.webp
       comments: true
       commenting: open
       published: true
-      image: /assets/images/site-og.webp
+      image: /crystaldown/images/-og.avif
       permalink: /:year/:month-:day-:title/
       canonical_domain: https://0xreki.de/crystaldown
   - # /01-life-in-avan-forest
@@ -119,7 +117,7 @@ defaults:
           - Isekai
           - LitRPG
           - Slice of Life
-      image: /assets/images/site-og.webp
+      image: /crystaldown/images/-og.avif
       canonical_domain: https://0xreki.de/crystaldown
   - # /02-vampire-aide-and-exodus
     scope:
@@ -146,5 +144,5 @@ defaults:
           - Isekai
           - LitRPG
           - Slice of Life
-      image: /assets/images/site-og.webp
+      image: /crystaldown/images/-og.avif
       canonical_domain: https://0xreki.de/crystaldown
