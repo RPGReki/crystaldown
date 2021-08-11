@@ -40,7 +40,7 @@ A good start to an adventure… or it would be an adventure if he didn't hole hi
     <itunes:keywords>web novel,slice of life,comedy,fantasy,science fiction</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Fiction" />
-    <copyright>{{ site.copyright.license }} {{ site.copyright.name }}</copyright>
+    <copyright>{{ site.copyright.license | strip_html }} {{ site.copyright.name | strip_html }}</copyright>
 
 {% for page in pages %}
 {% if page.published == "sponsors" or page.published == "pre-sponsors"%}{% continue %}{% endif %}
