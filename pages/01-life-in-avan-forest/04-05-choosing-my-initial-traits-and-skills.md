@@ -7,10 +7,6 @@ chapter: 4
 shortlink: /cd/1/4/
 
 redirect_from:
-  - /crystaldown/01-life-in-avan-forest/04
-  - /crystaldown/01-life-in-avan-forest/05
-  - /01-life-in-avan-forest/04
-  - /01-life-in-avan-forest/05
   - /cd/1/5/
 
 checker:

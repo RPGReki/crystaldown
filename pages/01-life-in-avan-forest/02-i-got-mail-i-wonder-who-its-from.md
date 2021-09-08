@@ -6,10 +6,6 @@ date: 2019-11-25 11:11 +01:00
 chapter: 2
 shortlink: /cd/1/2/
 
-redirect_from:
-  - /crystaldown/01-life-in-avan-forest/02
-  - /01-life-in-avan-forest/02
-
 checker:
   - pwa
 
