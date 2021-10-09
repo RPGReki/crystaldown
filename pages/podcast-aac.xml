@@ -42,8 +42,10 @@ A good start to an adventure… or it would be an adventure if he didn't hole hi
     <itunes:category text="Fiction" />
     <copyright>{{ site.copyright.license | strip_html }} {{ site.copyright.name | strip_html }}</copyright>
 
+{% capture now %}{{ 'now'| date: '%s'}}{% endcapture %}
 {% for page in pages %}
-{% if page.published == "sponsors" or page.published == "pre-sponsors"%}{% continue %}{% endif %}
+  {% capture post_time %}{{ page.date | date: '%s'}}{% endcapture %}
+  {% if jekyll.environment != "unpublished" %}{% if post_time > now %}{% continue %}{% endif %}{% endif %}
 {% unless page.audio %}{% continue %}{% endunless %}
 {% capture description %}{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | replace: "&thinsp;", " " }}{% else %}{{ page.content | markdownify | strip_html | truncatewords: 50, "…" | replace: "&thinsp;", " " }}{% endif %}{% endcapture %}
     <item>
