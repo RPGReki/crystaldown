@@ -42,7 +42,7 @@ A good start to an adventure… or it would be an adventure if he didn't hole hi
     <itunes:category text="Fiction" />
     <copyright>{{ site.copyright.license | strip_html }} {{ site.copyright.name | strip_html }}</copyright>
 
-{% capture now %}{{ 'now'| date: '%s'}}{% endcapture %}
+{% capture now %}{{ 'now'| date: '%s' | plus: 43200 }}{% endcapture %}
 {% for page in pages %}
   {% capture post_time %}{{ page.date | date: '%s'}}{% endcapture %}
   {% if jekyll.environment != "unpublished" %}{% if post_time > now %}{% continue %}{% endif %}{% endif %}
