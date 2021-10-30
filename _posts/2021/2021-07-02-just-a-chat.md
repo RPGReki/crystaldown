@@ -9,7 +9,7 @@ link:
   volume_number: 2
   chapter: 74
 
-image: /blog/images/2021-07-02-blood-bag.avif
+image: /blog/images/2021-07-02-blood-bag.png
 image_alt: Blood Bag (Symbolic Picture)
 
 image_license: CC-BY-SA 3.0 ICSident at German Wikipedia
