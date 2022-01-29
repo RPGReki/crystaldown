@@ -96,7 +96,7 @@ Just as I've read from the Encyclopedia Magicka, the spell absorbs the life forc
 
 “Yes, the spell absorbs life force.”
 
-“*Pant*, thank you,” one of the villagers says. He's out of breath.
+“<Pant>, thank you,” one of the villagers says. He's out of breath.
 
 “How many people are still in the village?” Matt asks.
 

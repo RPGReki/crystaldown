@@ -164,9 +164,9 @@ As expected, it's gender-separated baths.
 
 We enter the bath.
 
-“The bath feels so nice, *purr*.”
+“The bath feels so nice, <purr>.”
 
-“I agree, *purr*,” Patrick answers.
+“I agree, <purr>,” Patrick answers.
 
 “Come to think of it, I've never heard Pat purr,” Matt says.
 
