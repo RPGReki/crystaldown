@@ -65,7 +65,7 @@ I couldn't sleep all night and when I woke up, I found myself in this form…”
 
 I grab him and pet him.
 
-“Oh… <purr>. Oh, would you stop that! I'm not your pet! But then… <purr>.”
+“Oh… \<purr>. Oh, would you stop that! I'm not your pet! But then… \<purr>.”
 
 Hehe, I found his weak spot!
 It right behind his ears.
