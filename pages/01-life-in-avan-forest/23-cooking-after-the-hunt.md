@@ -57,7 +57,7 @@ Leave the gathering to us, it's not like we helped much with the Giant Rabbit.�
 Seth, Matt and I sit down to rest.
 Matt suddenly starts petting my ears.
 
-\<Purr>, I've started purring…
+\<Purr\>, I've started purring…
 
 “Matt!” I should stop him from petting my ears.
 But I'm so sleepy…

@@ -43,7 +43,7 @@ So I poured the blood into the drainage as well.
 
 I wait for the bathtub to fill enough before getting in.
 Mmm, this feels so nice!
-\<Purr>… Did I just purr?
+\<Purr\>… Did I just purr?
 I didn't know I do that!
 That'll take some time to get used to…
 After I'm done bathing and changing into new clothes, there some things I need to take care of.

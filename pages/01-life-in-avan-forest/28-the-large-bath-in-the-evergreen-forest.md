@@ -170,7 +170,7 @@ After dinner, we all go to the new bath.
 
 “This feels great,” Matt exclaims.
 
-“I agree, \<purr>”, I answer.
+“I agree, \<purr\>”, I answer.
 
 I just can't stop myself from purring.
 At this point, I just don't care about the purring anymore.

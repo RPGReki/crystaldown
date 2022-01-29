@@ -33,7 +33,7 @@ Oh, it's just him…
 
 “Good morning, Swift!”
 
-“\<Yawn>, good morning, Matt!”
+“\<Yawn\>, good morning, Matt!”
 
 I stretch.
 
