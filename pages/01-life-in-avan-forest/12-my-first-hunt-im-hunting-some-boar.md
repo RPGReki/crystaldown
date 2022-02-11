@@ -6,6 +6,9 @@ date: 2019-12-26 01:11 +01:00
 chapter: 12
 shortlink: /cd/1/12/
 
+redirect_from:
+  - /crystaldown/01-life-in-avan-forest/12
+
 checker:
   - pwa
 
