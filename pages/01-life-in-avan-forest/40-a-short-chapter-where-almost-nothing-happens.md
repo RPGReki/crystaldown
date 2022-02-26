@@ -20,7 +20,7 @@ characters:
 location:
   - tatilansCastle
 ---
-“Sigh…” I hear Pat sighing. Again.
+“\<Sigh\>…” I hear Pat sighing. Again.
 He seems to feel down today, too.
 He's been like that the last two days.
 I'm finished with my documents for today.

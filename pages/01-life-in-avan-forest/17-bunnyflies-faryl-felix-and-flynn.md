@@ -33,7 +33,7 @@ So they're edible.
 I pull one from the ground — it's a red carrot — and break off a bit to taste it.
 Carrots or beets, what will it taste like?
 I take a bite.
-Sigh, it's neither… it tastes like ginger.
+\<Sigh\>, it's neither… it tastes like ginger.
 Well, at least I got something to add to my spice collection.
 So far, I've found more spices than anything.
 It's not bad since I can experiment more with those.

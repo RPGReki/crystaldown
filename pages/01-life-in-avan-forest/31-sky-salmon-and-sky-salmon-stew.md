@@ -6,6 +6,7 @@ date: 2020-02-07 01:11 +01:00
 chapter: 31
 shortlink: /cd/1/31/
 
+seo_title_fix: 2
 seo_meta_fix: 1
 
 checker:

@@ -84,7 +84,7 @@ But I'll keep it in mind for the off case a miracle happens.”
 
 “Only if you stop calling me ‘Prince’!”
 
-“Sigh… Yes, as you ask, Pr…, Matthew.
+“\<Sigh\>… Yes, as you ask, Pr…, Matthew.
 People will probably not ask me to act as their defence in trials anymore.
 I'll probably take up cooking again,” Alexander says.
 
