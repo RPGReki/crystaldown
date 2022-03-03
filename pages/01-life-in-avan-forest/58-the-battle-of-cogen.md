@@ -1,6 +1,6 @@
 ---
-title: "The Battle of Cogen"
-title_postfix: "Matthew"
+title: "The Battle of Cogen: Fighting Back the Mad Cow Horde"
+title_postfix: Matthew
 
 date: 2020-08-07 01:11 +02:00
 
@@ -39,9 +39,11 @@ The next day, after the main unit arrives, we prepare to wipe out the Minotaur o
 
 “In the worst case, there's still me,” Sobe announces proudly.
 
-“Thanks, Sobe. It's good to have you with us.”
+“Thanks, Sobe.
+It's good to have you with us.”
 
-“Sobe? As in Sobe Tagun? The Mithril Rank Adventurer?!” General Ritchie is taken aback.
+“Sobe? As in Sobe Tagun?
+The Mithril Rank Adventurer?!” General Ritchie is taken aback.
 
 “Yes, that's me!” he cheekily answers.
 
