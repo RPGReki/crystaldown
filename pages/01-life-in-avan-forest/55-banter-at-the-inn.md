@@ -1,5 +1,5 @@
 ---
-title: "Banter At the Inn"
+title: Evening Banter At the Inn
 
 date: 2020-07-27 01:11 +02:00
 
@@ -49,7 +49,8 @@ At least she's not accusing me of crimes or yelling other nonsense,” I put on 
 “No, I'm sorry. It's just too much.”
 
 “Anyway, let's go down, I think they are about to serve dinner.
-I assume Lecarvi and Sobe will be arriving soon, too. I want to get to know Sobe better before we got with him to Cogen.”
+I assume Lecarvi and Sobe will be arriving soon, too.
+I want to get to know Sobe better before we got with him to Cogen.”
 
 “So do I,” Matt answers.
 
@@ -62,7 +63,8 @@ Not soon after, the door opens and I can see Sobe walking in.
 I wave.
 He sees us and immediately walks to our table.
 
-“Hello again, Sobe. Wasn't Lecarvi with you?” I ask.
+“Hello again, Sobe.
+Wasn't Lecarvi with you?” I ask.
 
 “Yes, she was, but she decided to leave town and go westward.
 She said something about going further south and even staying here making her feeling uneasy,” he sits down, “that's just how she is.
@@ -131,7 +133,8 @@ Inside, it's pasta, meatballs and tomato sauce.
 “I see,” Matt answers, “I'm looking forward to it.”
 
 “Is your place so hard to find? I don't think that will ever be a problem.
-I have a knack for finding things. I'll just keep looking.
+I have a knack for finding things.
+I'll just keep looking.
 In the worst case, I'll have to ask Matt to guide me,” Sobe is full of confidence.
 
 After eating, we go to our rooms.

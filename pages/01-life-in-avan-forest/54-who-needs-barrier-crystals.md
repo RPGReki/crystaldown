@@ -90,7 +90,7 @@ Yes, those are barrier crystals, the same kind as I used before.
 
 “A recent study showed couples that use barrier crystals are less likely to have offspring the following months,” he answers.
 
-“Of course they would have fewer offspring!” Matt answers, “people…”
+“Of course, they would have fewer offspring!” Matt answers, “people…”
 
 “See?” he interrupts Matt, “Barrier Crystals make you impotent!
 Save your money so you can pamper that stupidly shiny plumb bird of… Owww!”
@@ -114,7 +114,8 @@ And yes, he spouted his usual conspiracy theories.
 If he had a Barrier Crystal, he wouldn't be out now.”
 
 The guards break out in laughter.
-“You heard it. It's his own fault.”
+“You heard it.
+It's his own fault.”
 They carry the unconscious man away without even questioning us.
 
 “You mentioned Cogen,” Matt addresses the vendor.
@@ -143,23 +144,25 @@ There are still animals here in the area, so I think this town is safe.”
 Even if I were to tell them.
 Why would they listen to a random old man like me?”
 
-“You'd be surprised. Anyway, thanks. Bye!”
-Matt turns to the party.
-“Let's go to the inn and check-in.”
+“You'd be surprised.
+Anyway, thanks. Bye!”
+Matt turns to the party,
+“let's go to the inn and check-in.”
 
 We move to the inn.
 I've been wondering: Why hasn't there been any announcements by the temples?
-I hear a ringing sound — it's mail! I discreetly open the mail.
+I hear a ringing sound — it's mail!
+I discreetly open the mail.
 
 {:.interface}
 > Mail\\
 > Sender: &nbsp;Suscellu\\
 > Subject: Mad Cow Disease
 >
-> Since we're still debating I can't tell you much.
+> Since we're still debating, I can't tell you much.
 > I'll tell you some historic things about it, instead.
 > The outbreak one generation ago was a biomagical weapon accident.
-> Thus it's something resulting from the actions of mortals.
+> Thus, it's something resulting from the actions of mortals.
 > Back then, we didn't intervene.
 >
 > All I can say is: listen to the elderly.
