@@ -8,6 +8,7 @@ shortlink: /cd/1/6/
 
 redirect_from:
   - /cd/1/7/
+  - /crystaldown/01-life-in-avan-forest/07
 
 checker:
   - pwa
