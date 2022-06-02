@@ -136,7 +136,7 @@ Do your best to confess to him!”
 That's why we usually go under the pretense of arranged marriages.
 If the initial reactions of the children a favourable we plan for marriage.
 Well, that doesn't work for same-sex marriages.
-It's no big deal, since you can't produce an heir Paige will probably inherit our house.
+It's no big deal, since you can't produce an heir, Paige will probably inherit our house.
 In the worst case, you just need to adopt a kid.”
 
 “That… goes against everything you taught us!”
