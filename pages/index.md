@@ -1,7 +1,7 @@
 ---
 layout: 2021/base
 type: base
-title: "Crystal Down Web Novel Overview"
+title: Crystal Down Web Novel Overview
 date: 2019-11-11
 excerpt: "Meet Swift who just got reincarnated as a 10-year-old catling after a traffic accident. Having just woken up in a new world with no real explanation, our kitten shows he lacks any common sense whatsoever…"
 
