@@ -12,7 +12,7 @@ checker:
 editor:
   - notKeoni
 
-previous_chapter: 6
+prev_chapter: 6
 
 characters:
   main:

@@ -14,7 +14,7 @@ checker:
   - pwa
 
 current_chapters: "6 & 7"
-previous_chapter: 4
+prev_chapter: 4
 next_chapter: 8
 
 characters:
