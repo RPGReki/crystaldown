@@ -17,7 +17,7 @@ MD033:
   allowed_elements:
   - script
 
-avMD036:
+MD036:
   # Punctuation characters
   punctuation: ".,;:!?。，；：！？«»„“”"
 
